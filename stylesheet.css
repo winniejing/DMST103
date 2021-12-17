@@ -1,13 +1,13 @@
 body, 
 tw-story {
-background-color: #172774;
+background-color: #172174;
 color: #EEEEEE;
 font-family: 'PT Sans Caption', sans-serif; font-size: 1.1em;
 } tw-passage {
-max-width: 55em; margin: 0 auto 0 auto;
+max-width: 60em; margin: 0 auto 0 auto;
 }
-tw-link, .enchantment-link { color: #FF0075;
+tw-link, .enchantment-link { color: #FF1075;
 }
 .visited {
-color: #FF0075;
+color: #FF1075;
 }
